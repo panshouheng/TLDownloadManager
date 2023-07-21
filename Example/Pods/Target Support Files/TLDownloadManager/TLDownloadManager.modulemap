@@ -1,0 +1,6 @@
+framework module TLDownloadManager {
+  umbrella header "TLDownloadManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
