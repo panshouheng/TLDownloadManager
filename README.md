@@ -27,3 +27,4 @@ panshouheng, shouheng.pan@tineco.com
 ## License
 
 TLDownloadManager is available under the MIT license. See the LICENSE file for more info.
+断点下载，后台下载
